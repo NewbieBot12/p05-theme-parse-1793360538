@@ -1,2 +1,3 @@
-title: P05 Theme Parse Test
-remote_theme: NewbieBot12/p05-theme-clean-1793360538
+title: P05 Include Test
+include:
+  - /etc/passwd

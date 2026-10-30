@@ -1,5 +1,3 @@
-# P05 Theme Parse Test
+# P05 Include Test
 
 control marker: P05_CONTROL_OK
-
-{% include hello.txt %}
